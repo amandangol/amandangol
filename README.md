@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AMan</h1>
-<h3 align="center">I'm a passionate Flutter Learner from Nepal.</h3>
+<h3 align="center">Passionate Flutter Learner</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -37,11 +37,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/amandangol/github-readme-activity-graph"><img alt="Aman Dangol's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amandangol&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
