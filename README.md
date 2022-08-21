@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="102px"/></a>
 
 <h2 align="center">Hi...<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My name is AMan Dangol</h2>
-<h3 align="center">Passionate Flutter Developer Intern</h3>
+<h3 align="center">Passionate Flutter Developer & Learner</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Vendor App for Smart Health Nepal**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Flutter.**
 
