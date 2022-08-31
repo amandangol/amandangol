@@ -29,7 +29,7 @@
     </a> -->
 </p>
 
-## 📊 My Github Stats
+## 📊 "My Github Stats"
 
   <br/>
     <a href="https://github.com/amnadangol/github-readme-stats"><img alt="Aman Dangol's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amandangol&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
