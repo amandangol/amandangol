@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on "Corporate Social Responsibilty"** App
+- 🔭 I’m currently working on **"Corporate Social Responsibilty"** App
 
-- 🌱 I’m currently learning **Provider in Fluter**
+- 🌱 I’m currently learning **Provider in Flutter**
 
 - 📫 How to reach me **icrextha@gmail.com**
 
