@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **icrextha@gmail.com**
 
-- ⚡ Fun fact **I love watching movies and series.**
+- ⚡ Fun fact **I love watching movies and series**
 
 ## 🚀 Languages and Tools:
 
