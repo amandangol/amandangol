@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **"Sewa Ko Yatra(SKY)"** App
+- 🔭 I’m currently working on **"Makai"** App
 
-- 🌱 I’m currently learning **Provider in Flutter**
+- 🌱 I’m currently learning **BLoc in Flutter**
 
 - 📫 How to reach me **icrextha@gmail.com**
 
