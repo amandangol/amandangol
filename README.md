@@ -32,7 +32,9 @@
 
 
 My Interests :heart_eyes:<br>
-<p align="center">< img width="100%" src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" alt="lang image here" /></p>
+<p align="center"><img width="50%" src="https://github.com/demartini/demartini/blob/master/code.gif" alt="lang image here" /></p>
+
+
 
 <!-- -   Python
 -   Machine learning
