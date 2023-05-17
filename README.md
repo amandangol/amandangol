@@ -46,7 +46,7 @@ My Interests :heart_eyes:<br>
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avikumart&theme=radical&layout=compact)](https://github.com/avikumart/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandangol&theme=radical&layout=compact)](https://github.com/amandangol/github-readme-stats)
 
 
 ## Profile views count
