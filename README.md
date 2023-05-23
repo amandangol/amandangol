@@ -63,5 +63,5 @@ My Interests :<br>
   
 </p>
 
-  <p align="center"><img width="100%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="lang image here" /></p>
+<!--   <p align="center"><img width="100%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="lang image here" /></p> -->
 
