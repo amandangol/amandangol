@@ -32,7 +32,7 @@
 
 
 My Interests :heart_eyes:<br>
-<p align="center"><img width="50%" src="https://github.com/demartini/demartini/blob/master/code.gif" alt="lang image here" /></p>
+<p align="center"><img width="50%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="lang image here" /></p>
 
 
 
