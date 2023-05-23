@@ -31,7 +31,7 @@
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandangol&show_icons=true&theme=radical)](https://github.com/amandangol/github-readme-stats)
 
 
-My Interests :heart_eyes:<br>
+My Interests :<br>
 <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="lang image here" /></p>
 
 
@@ -62,3 +62,6 @@ My Interests :heart_eyes:<br>
 ![](https://komarev.com/ghpvc/?username=amandangol)
   
 </p>
+
+  <p align="center"><img width="100%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="lang image here" /></p>
+
