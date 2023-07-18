@@ -6,7 +6,6 @@
   My name is <b>Aman Dangol</b>.<br/>
   🌱 I’m currently learning **BLoc in Flutter**
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amandangol&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="sudhansuuranjan" /> </p>
 <h2 align="center">🌐 Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/amandsngol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter-aman" height="30" width="40" /></a>
@@ -33,7 +32,8 @@
 <h2 align="center"> My Github Streak</h2>
 <p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=amandangol&theme=radical" alt="amandangol" /></p>
 <br>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=amandangol&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="sudhansuuranjan" /> </p>
+</br>
 My Interests:<br>
 <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="lang image here" /></p>
 
