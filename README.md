@@ -2,7 +2,8 @@
 <!-- <p align="center"><img width="30%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/okal-eltocat.jpg" alt="lang image here" /></p>  -->
 
 <p align='center'>
-  My name is <b>Aman Dangol</b>.<br/>
+  My name is <b>Aman Dangol</b>
+  
   - 🌱 I’m currently learning **BLoc in Flutter**
   
   - 💬 Ask me about **Flutter**
