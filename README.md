@@ -34,7 +34,7 @@
 <br>
 <p align="middle"> <img src="https://github-profile-trophy.vercel.app/?username=amandangol&column=4&margin-w=15&margin-h=15&theme=radical" alt="Sudhanshu" /> </p>
 </br>
- ##My Interests:<br>
+ My Interests:<br>
 <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="lang image here" /></p>
 
 
