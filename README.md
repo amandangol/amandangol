@@ -2,8 +2,10 @@
 <!-- <p align="center"><img width="30%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/okal-eltocat.jpg" alt="lang image here" /></p>  -->
 
 <p align='center'>
-  My name is <b>Aman Dangol</b>
-  
+ <h1 align="center">Hi 👋, I'm Aman Dangol</h1>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=amandangol&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="sudhansuuranjan" /> </p>
+  <p align ="center">
   - 🌱 I’m currently learning **BLoc in Flutter**
   
   - 💬 Ask me about **Flutter**
@@ -11,7 +13,8 @@
   - 📫 How to reach me **amand4ngol@gmail.com**
 
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amandangol&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="sudhansuuranjan" /> </p>
+
+</p>
 <h2 align="center">🌐 Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/amandsngol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter-aman" height="30" width="40" /></a>
