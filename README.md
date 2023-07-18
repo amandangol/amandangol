@@ -14,7 +14,9 @@
   - 📫 How to reach me **amand4ngol@gmail.com**
 
 </p>
-
+<br/>
+<p align="center"> <a href="https://twitter.com/@amandsngol" target="blank"><img src="https://img.shields.io/twitter/follow/amandsngol?logo=twitter&style=for-the-badge" alt="@amandsngol"/></a> </p>
+<br/>
 </p>
 <h2 align="center">🌐 Connect with me:</h2>
 <p align="center">
@@ -22,13 +24,13 @@
 <a href="https://linkedin.com/in/amandangol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn-aman" height="30" width="40" /></a>
 <a href="https://instagram.com/amand4ngol.xx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta-aman" height="30" width="40" /></a>
 </p>
-<h2 align="center"> ##My Github Stats</h2>
+<h2 align="center"> My Github Stats</h2>
 
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amandangol&show_icons=true&line_height=20&theme=radical" alt="amandangol" /></p>
 </p>
 
-<h2 align="center"> ##My Github Streak</h2>
+<h2 align="center">My Github Streak</h2>
 <p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=amandangol&theme=radical" alt="amandangol" /></p>
 <br>
 <p align="middle"> <img src="https://github-profile-trophy.vercel.app/?username=amandangol&column=4&margin-w=15&margin-h=15&theme=radical" alt="Sudhanshu" /> </p>
