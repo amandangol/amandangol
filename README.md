@@ -1,7 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-<!-- <p align="center"><img width="30%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/okal-eltocat.jpg" alt="lang image here" /></p>  -->
+<p align="center"><img width="30%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/okal-eltocat.jpg" alt="lang image here" /></p> 
 
-<p align="center">  Hi there! 👋 </p>
 <p align='center'>
   My name is <b>Aman Dangol</b>.<br/>
   🌱 I’m currently learning **BLoc in Flutter**
