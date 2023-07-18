@@ -3,9 +3,12 @@
 
 <p align='center'>
   My name is <b>Aman Dangol</b>.<br/>
-  🌱 I’m currently learning **BLoc in Flutter**
-  💬 Ask me about **Flutter**
-  📫 How to reach me **amand4ngol@gmail.com**
+  - 🌱 I’m currently learning **BLoc in Flutter**
+  
+  - 💬 Ask me about **Flutter**
+  
+  - 📫 How to reach me **amand4ngol@gmail.com**
+
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amandangol&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="sudhansuuranjan" /> </p>
 <h2 align="center">🌐 Connect with me:</h2>
