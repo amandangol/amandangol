@@ -8,30 +8,33 @@
 <!--   I am practicing <b>Data Scientist.</b><br>
   Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b> -->
 </p>
-<p>📫 How to reach me:innocent:</p>
-
-<p align='center'>
- 
-  <a href="amand4ngol@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>&nbsp
-  
-  <a href="https://www.linkedin.com/in/amandangol/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp
-  
-  <a href="https://twitter.com/disastroustap">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  
+<h2 align="center">🌐 Connect with me:</h2>
+<p align="center">
+<a href="https://twitter.com/amandsngol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter-aman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amandangol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn-aman" height="30" width="40" /></a>
+<a href="https://instagram.com/amand4ngol.xx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta-aman" height="30" width="40" /></a>
 </p>
 
-[![Aman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amandangol&theme=dark)](https://git.io/streak-stats)
+<h2 align="center">My Github Stats</h2>
 
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandangol&show_icons=true&theme=radical)](https://github.com/amandangol/github-readme-stats)
+<p align ="center">
+<table>
+  <tr>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amandangol&show_icons=true&locale=en&layout=compact&line_height=20&theme=radical" alt="amandangol" /></p>
+   </td>
+   <td>
+<img src="https://github-readme-stats.vercel.app/api?username=amandangol&show_icons=true&line_height=20&theme=radical" alt="amandangol" /></p>
+   </td>
+ </tr>
+</table>
+</p>
+
+<h2 align="center"> My Github Streak</h2>
+<p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=amandangol&theme=radical" alt="amandangol" /></p>
 
 
-My Interests :<br>
+My Interests:<br>
 <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="lang image here" /></p>
 
 
