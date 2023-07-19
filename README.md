@@ -4,7 +4,15 @@
 <p align='center'>
  <h1 align="center">Hi 👋, I'm Aman Dangol</h1>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amandangol&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="sudhansuuranjan" /> </p>
+
+<div id="header" align="left">
+<a href="https://github.com/amandangol/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=amandangol">
+</a>
+<a href="https://github.com/amandangol?tab=followers"><img src="https://img.shields.io/github/followers/amandangol?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
+
+
   <p align ="center">
    
   - 🌱 I’m currently learning **BLoc in Flutter**
