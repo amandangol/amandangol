@@ -12,7 +12,7 @@
 <a href="https://github.com/amandangol?tab=followers"><img src="https://img.shields.io/github/followers/amandangol?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
-
+<!---
   <p align ="center">
    
   - 🌱 I’m currently learning **BLoc in Flutter**
@@ -22,6 +22,7 @@
   - 📫 How to reach me **amand4ngol@gmail.com**
 
 </p>
+-->
 <br/>
 <p align="center"> <a href="https://twitter.com/@amandsngol" target="blank"><img src="https://img.shields.io/twitter/follow/amandsngol?logo=twitter&style=for-the-badge" alt="@amandsngol"/></a> </p>
 </p>
