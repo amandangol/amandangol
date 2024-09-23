@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<h1 align="center">Hi 👋, I'm A m a an</h1>
+<h1 align="center">Hi 👋, I'm A m a n</h1>
 <h3 align="center">Mobile Application Developer and Web Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandangol&label=Profile%20views&color=0e75b6&style=flat" alt="amandangol" /> </p>
