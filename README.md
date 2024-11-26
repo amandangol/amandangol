@@ -1,18 +1,8 @@
-# Hi there, I'm Aman Dangol 👋
-
-<p align="center">
-  <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Coding Animation" width="300"/>
-</p>
+# Hi there, I'm A M a n👋
 
 ## 🚀 About Me
 
-I'm a passionate mobile and web developer with a strong focus on creating innovative and user-friendly applications. Specializing in Flutter and Android development, I love turning complex problems into elegant, efficient solutions.
-
-### 💡 Professional Snapshot
-- 🔭 Currently working on cutting-edge mobile application development
-- 🌱 Continuously learning and expanding my tech stack
-- 💬 Ask me about Flutter, Android development, and web technologies
-- 🏆 Experienced in cross-platform development and modern mobile frameworks
+Mobile and web developer enthusiast, passionate about creating innovative applications. Turning ideas into elegant solutions, one line of code at a time.
 
 ## 🛠️ Technologies & Tools
 
@@ -44,12 +34,16 @@ I'm a passionate mobile and web developer with a strong focus on creating innova
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandangol&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandangol&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amandangol&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandangol&theme=radical" alt="GitHub Streak" width="45%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amandangol&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=amandangol&theme=rogue" alt="Activity Graph" />
 </p>
 
 ## 🌐 Let's Connect
@@ -69,16 +63,12 @@ I'm a passionate mobile and web developer with a strong focus on creating innova
   </a>
 </p>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amandangol&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-*Continuously learning, creating, and innovating* 💻✨
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+💻☕
