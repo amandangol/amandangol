@@ -1,5 +1,5 @@
-# Hi there, I'm A M a n Dangol 👋
- 
+# Hi there, I'm Aman Dangol 👋
+
 <p align="center">
   <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Coding Animation" width="300"/>
 </p>
@@ -14,7 +14,7 @@ I'm a passionate mobile and web developer with a strong focus on creating innova
 - 💬 Ask me about Flutter, Android development, and web technologies
 - 🏆 Experienced in cross-platform development and modern mobile frameworks
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technologies & Tools
 
 ### Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -22,12 +22,24 @@ I'm a passionate mobile and web developer with a strong focus on creating innova
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Platforms
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Development Tools & Services
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitBash](https://img.shields.io/badge/GitBash-4D4D4D?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Deployment & Hosting
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### IDEs & Editors
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Analytics
 
