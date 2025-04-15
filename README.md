@@ -133,7 +133,6 @@ class AmandaNgol extends FlutterDeveloper {
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=amandangol&cover_image=true&theme=novatorem&show_offline=false&background_color=0553B1&interchange=true&bar_color=A9E8FF&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
->
 
 <!-- Custom Animated Footer -->
 <div align="center">
