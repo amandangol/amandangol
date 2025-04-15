@@ -5,8 +5,9 @@
 
 <!-- Custom Flutter-Themed Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5C6BC0&center=true&vCenter=true&random=false&width=750&lines=Building+beautiful+Android+apps+with+Flutter;Turning+designs+into+seamless+experiences;Mobile+developer+by+day%2C+coder+by+night;Passionate+about+Flutter+development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5C6BC0&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Crafting+Flutter+apps+with+passion;%F0%9F%8E%AF+Pixel-perfect+UI%2C+smooth+UX;%F0%9F%9A%80+Building+for+mobile+%26+beyond;%F0%9F%92%A1+Always+learning%2C+always+coding" alt="Typing SVG" />
 </div>
+
 
 <!-- GitHub Contribution Snake Animation -->
 <div align="center">
