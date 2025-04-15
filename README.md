@@ -44,18 +44,18 @@
  
  
 <!-- Custom Stats Section with Flutter Theme -->
+<!-- Custom Stats Section with Flutter Theme -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandangol&show_icons=true&theme=tokyonight&bg_color=5C6BC0&title_color=FFFFFF&text_color=FFFFFF&icon_color=E3F2FD&hide_border=true" alt="Amanda's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandangol&layout=compact&theme=tokyonight&bg_color=5C6BC0&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
 </div>
 
-<!-- GitHub Streak Stats (As Requested) -->
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=amandangol" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=amandangol&theme=tokyonight&hide_border=true&background=5C6BC0&ring=E3F2FD&currStreakLabel=FFFFFF&fire=E3F2FD&currStreakNum=FFFFFF" alt="GitHub Streak"/>
 </div>
+
+
 
 <!-- Contribution Graph with Enhanced Theme -->
 <!--
