@@ -1,6 +1,6 @@
 <!-- Custom Animated Header with Enhanced Color Theme -->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6BC0&height=250&section=header&text=👋%20Hello%2C%20I'm%20AMan%20Dangol!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6BC0&height=250&section=header&text=👋%20Hello%2C%20I'm%20AMan!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <!-- Custom Flutter-Themed Introduction -->
@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=amandangol&theme=tokyonight&hide_border=true&background=5C6BC0&ring=E3F2FD&currStreakLabel=FFFFFF&fire=E3F2FD&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=amandangol&theme=tokyonight&hide_border=true&background=5C6BC0&ring=E3F2FD&currStreakLabel=FFFFFF&fire=E3F2FD&currStreakNum=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 
@@ -126,12 +126,6 @@ class AmandaNgol extends FlutterDeveloper {
   <a href="mailto:amanda@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
-<!-- Spotify Now Playing with Flutter Theme -->
-<h2 align="center">🎧 Coding to the Rhythm</h2>
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=amandangol&cover_image=true&theme=novatorem&show_offline=false&background_color=0553B1&interchange=true&bar_color=A9E8FF&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
 
 <!-- Custom Animated Footer -->
