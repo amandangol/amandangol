@@ -1,27 +1,27 @@
 <!-- Custom Animated Header with Enhanced Color Theme -->
-<div align="center">
+<!-- <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6BC0&height=250&section=header&text=👋%20Hello%2C%20I'm%20AMan!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
-</div>
+</div> -->
 
 <!-- Custom Flutter-Themed Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=26&duration=4000&pause=1500&color=5C6BC0&center=true&vCenter=true&width=800&lines=Once+upon+a+time+in+a+land+of+widgets...;There+lived+a+dev+who+spoke+in+Dart.;By+day+they+crafted+UIs.;By+night+they+refactored+dreams." alt="Typing SVG" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=26&duration=4000&pause=1500&color=5C6BC0&center=true&vCenter=true&width=800&lines=Once+upon+a+time+in+a+land+of+widgets...;There+lived+a+dev+who+spoke+in+Dart.;By+day+they+crafted+UIs.;By+night+they+refactored+dreams." alt="Typing SVG" /> -->
 </div>
 
 <!-- GitHub Contribution Snake Animation -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandangol/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandangol/snk/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amandangol/snk/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div> -->
 
 <!-- Profile Views with Flutter Icon -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amandangol&style=for-the-badge&color=5C6BC0" alt="Views"/>
   <img src="https://img.shields.io/github/followers/amandangol?style=for-the-badge&color=5C6BC0" alt="Followers"/>
-</p>
+</p> -->
 
 
 
